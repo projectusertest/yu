@@ -1,2 +1,10 @@
+
+d=int(input("Number: "))
+
+
 a=2
-a="x"
+if d==3:
+    print(a)
+else:
+    a=5
+    print(a)
